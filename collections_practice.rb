@@ -19,5 +19,29 @@ def sort_array_char_count(array)
 end
 
 def swap_elements(array)
-  array.swap(1, 2)
+  array[0], array[1], array[2] = array[0], array[2], array[1]
+end
+
+def reverse_array(i_array)
+  i_array.reverse
+end
+
+def kesha_maker(array)
+  array.each do |i|
+    array.index(2) = "$"
+      i = "$"
+
+  end
+end
+
+def find_a(array)
+
+end
+
+def sum_array(array)
+
+end
+
+def add_s(array)
+
 end

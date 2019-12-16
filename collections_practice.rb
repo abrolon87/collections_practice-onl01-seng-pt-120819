@@ -29,13 +29,13 @@ end
 def kesha_maker(array)
   i = array.index(2)
   i.each do |index|
-    i = "$"
+
 
 
 
 
   end
-
+  array
 end
 
 def find_a(array)

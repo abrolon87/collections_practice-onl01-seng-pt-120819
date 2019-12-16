@@ -27,8 +27,8 @@ def reverse_array(i_array)
 end
 
 def kesha_maker(array)
-  array.each do |i|
-    array.index(2) = "$"
+  array.each do |word, c|
+    word.c(2) = "$"
 
 
   end

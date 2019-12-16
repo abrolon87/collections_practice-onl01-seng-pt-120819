@@ -31,7 +31,7 @@ def kesha_maker(array)
     i(2) = $
 
 
-  
+
 end
 
 def find_a(array)

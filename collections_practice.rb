@@ -47,4 +47,5 @@ def add_s(array)
     if word != "feet"
       word << "!"
     end
+  end
 end

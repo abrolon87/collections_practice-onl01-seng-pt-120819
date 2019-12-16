@@ -35,7 +35,7 @@ end
 def find_a(array)
   array.each do |word|
     word.start_with?(a)
-
+  end
 end
 
 def sum_array(array)

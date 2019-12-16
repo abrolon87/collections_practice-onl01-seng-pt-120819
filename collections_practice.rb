@@ -31,7 +31,6 @@ def kesha_maker(array)
     i = array.index(2)
     i = "$"
   end
-  array
 end
 
 def find_a(array)
